@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JuniorSDETTest.iml" filepath="$PROJECT_DIR$/JuniorSDETTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElementTest.iml" filepath="$PROJECT_DIR$/ElementTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
     </modules>
   </component>
 </project>

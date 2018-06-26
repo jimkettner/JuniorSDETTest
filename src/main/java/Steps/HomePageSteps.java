@@ -3,7 +3,7 @@ package Steps;
 import Pages.HomePage;
 import cucumber.api.java.en.Then;
 
-import static org.junit.Assert.assertTrue;
+import static junit.framework.Assert.assertTrue;
 
 public class HomePageSteps {
 
